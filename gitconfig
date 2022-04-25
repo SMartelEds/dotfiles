@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = frea.yop@smarteds.net
+	name = Sebastien MARTEL
